@@ -119,20 +119,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
----
-
-## 📂 Project Structure
-
-```
-Real-Estate-Neural-Network/
-│
-├── DL_RealEstate_NeuralNetwork.ipynb
-├── Real_estate_valuation_data_set.xlsx
-├── README.md
-├── requirements.txt
-└── images/
-```
-
+## Colab link: https://colab.research.google.com/drive/1OaydQmB9RRG8FmgqFbHs_GO90ro9js98#scrollTo=Gnt15_327Z5-
 ---
 
 ## 💡 Key Highlights
@@ -160,4 +147,4 @@ This project demonstrates a deep understanding of neural networks by implementin
 
 ## 🙌 Author
 
-Your Name
+Kavvya Mankulwar
