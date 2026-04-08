@@ -1,5 +1,10 @@
 # Real Estate Price Prediction using Neural Network (From Scratch)
 
+#👨‍🎓 Student Details
+#Name: Kavvya Mankulwar
+#PRN: 202301100062
+#Batch: PEC4
+
 ## 📌 Project Overview
 
 This project implements a **Neural Network from scratch using NumPy** to predict real estate prices based on property features.
