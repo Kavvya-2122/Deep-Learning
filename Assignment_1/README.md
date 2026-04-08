@@ -1,9 +1,9 @@
 # Real Estate Price Prediction using Neural Network (From Scratch)
 
-#👨‍🎓 Student Details
-#Name: Kavvya Mankulwar
-#PRN: 202301100062
-#Batch: PEC4
+##👨‍🎓 Student Details
+## Name: Kavvya Mankulwar
+## PRN: 202301100062
+## Batch: PEC4
 
 ## 📌 Project Overview
 
