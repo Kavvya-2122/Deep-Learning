@@ -1,4 +1,4 @@
-# 🏠 Real Estate Price Prediction using Neural Network (From Scratch)
+# Real Estate Price Prediction using Neural Network (From Scratch)
 
 ## 📌 Project Overview
 
