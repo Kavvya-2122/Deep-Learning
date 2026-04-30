@@ -1,0 +1,21 @@
+# Ultralytics YOLO runs directory
+runs/
+
+# Dataset folders and zip files
+Face Detection.*
+classification/
+bounding box/
+Pose Estimation/
+*.zip
+
+# Model weights
+*.pt
+!Object Detection/Part A - Object Detection/face_detection_best.pt
+!Part B - Classification/car_color_best.pt
+!Part C - Pose Estimation/yoga_pose_best.pt
+!Part D - Oriented Bounding Boxes/aerial_palm_tree_best.pt
+
+# Python caches
+__pycache__/
+*.pyc
+l̥
